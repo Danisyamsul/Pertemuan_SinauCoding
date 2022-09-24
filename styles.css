@@ -1,0 +1,79 @@
+a {
+  color: inherit;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: medium;
+}
+h3 {
+  font-size: small;
+}
+
+img {
+  height: 150px;
+  width: 175px;
+}
+
+.html {
+  height: 455px;
+  width: auto;
+  background-image: url("img/html-icon.png");
+  background-repeat: repeat-y;
+  background-position: left;
+  background-size: 150px;
+  background-color: #f39b9b;
+  text-align: center;
+}
+
+.html-title {
+  color: rgb(255, 72, 0);
+}
+
+.css {
+  height: 455px;
+  width: auto;
+  background-image: url("img/css-icon.png");
+  background-repeat: repeat-y;
+  background-position: right;
+  background-size: 170px;
+  background-color: #c5d6f5;
+  text-align: center;
+}
+
+.btn-html {
+  height: 30px;
+  border: none;
+  color: white;
+  background-color: rgb(255, 72, 0);
+}
+.btn-css {
+  height: 30px;
+  border: none;
+  color: white;
+  background-color: rgb(38, 122, 231);
+}
+
+.css-title {
+  color: rgb(38, 122, 231);
+}
+
+.between {
+  height: 10px;
+}
+
+.html-link:hover {
+  color: rgb(255, 72, 0);
+}
+
+.css-link:hover {
+  color: rgb(38, 122, 231);
+}
+
+.icon:hover {
+  height: 200px;
+  width: 200px;
+}
